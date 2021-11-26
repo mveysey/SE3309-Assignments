@@ -1,0 +1,7 @@
+Used dataset's from www.kaggle.com
+
+To generate dates we used a variation of this command in excel:
+=RANDBETWEEN(DATE(year, month, day),DATE(year, month, day))
+
+To generate some string values such as names, production companies, roleNames, etc., we used a variation of this command in excel:
+=CHOOSE(RANDBETWEEN(1,3),"Value1","Value2","Value3")
