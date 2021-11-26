@@ -1,0 +1,905 @@
+fName,lName,birthday,title,productionCompany
+Haile,Gerima,1963-02-25,Eternals,"Sony Pictures
+"
+Andy,Devonshire,1973-11-15,Mamma Mia,"Warner Bros
+"
+Theodore,Melfi,1954-08-17,Money Ball,"Paramount
+"
+Christian,Schwochow,1974-02-14,Dune,"Paramount
+"
+S.,Shankar,1970-08-23,Eternals,"Paramount
+"
+Dennis,Dugan,1968-06-18,Star Wars,"Sony Pictures
+"
+Scott,Stewart,1950-12-08,Jaws,"Sony Pictures
+"
+Robert,Luketic,1958-03-24,Grease,"Universal Studios
+"
+George,Nolfi,1956-07-06,Pitch Perfect,"Sony Pictures
+"
+Steven,Spielberg,1975-04-20,Parasite,"Universal Studios
+"
+Jeannot,Szwarc,1955-11-30,Star Wars,"Metro Goldwyn Mayer
+"
+Joe,Alves,1951-11-02,Pitch Perfect,"Universal Studios
+"
+Joseph,Sargent,1965-02-17,Pitch Perfect,"20th Century Fox
+"
+Daniel,Espinosa,1955-02-04,Grease,"Sony Pictures
+"
+Antoine,Fuqua,1962-09-02,Money Ball,"Paramount
+"
+Toshiya,Shinohara,1958-05-15,House of Gucci,"Metro Goldwyn Mayer
+"
+Masahiko,Murata,1964-01-20,House of Gucci,"Paramount
+"
+Hajime,Kamegaki,1969-10-31,Planet Earth,"Paramount
+"
+Hirotsugu,Kawasaki,1956-02-08,Up,"Universal Studios
+"
+Toshiyuki,Tsuru,1962-01-06,Dune,"20th Century Fox
+"
+Tensai,Okamura,1954-08-22,Mamma Mia,"20th Century Fox
+"
+Kemi,Adetiba,1963-09-27,Grown Ups,"Universal Studios
+"
+Cedric,Nicolas-Troyan,1954-03-16,Black Widow,"Disney
+"
+JJC,Skillz,1955-06-01,Eternals,"Universal Studios
+"
+Alice,Waddington,1951-07-06,Grown Ups,"Universal Studios
+"
+Raja,Gosnell,1953-02-09,Planet Earth,"Universal Studios
+"
+Stephen,Kijak,1964-04-04,House of Gucci,"Sony Pictures
+"
+Lijo,Jose,1970-06-18,Money Ball,"Universal Studios
+"
+David,de,1954-01-02,Mamma Mia,"Sony Pictures
+"
+Rahul,Rawail,1959-01-07,Money Ball,"Sony Pictures
+"
+Jane,Campion,1963-09-19,Star Wars,"Paramount
+"
+Nagesh,Kukunoor,1972-07-06,Mamma Mia,"Universal Studios
+"
+Shanker,Raman,1975-09-03,Pitch Perfect,"Disney
+"
+Vidhu,Vinod,1961-07-05,Jaws,"Metro Goldwyn Mayer
+"
+Mark,Rosman,1955-04-12,Planet Earth,"Metro Goldwyn Mayer
+"
+Lasse,Hallström,1973-12-02,Captain Philips,"Metro Goldwyn Mayer
+"
+Ridley,Scott,1958-08-06,Jaws,"Metro Goldwyn Mayer
+"
+Neill,Blomkamp,1966-03-05,Parasite,"Disney
+"
+Phillip,Noyce,1954-05-28,House of Gucci,"Sony Pictures
+"
+Renny,Harlin,1967-08-13,Up,"Metro Goldwyn Mayer
+"
+Anthony,Minghella,1967-05-23,Jaws,"Warner Bros
+"
+Simon,Wincer,1972-07-24,Jaws,"20th Century Fox
+"
+Spike,Lee,1975-05-30,Mamma Mia,"Metro Goldwyn Mayer
+"
+Sebastián,Schindel,1966-07-19,Eternals,"Metro Goldwyn Mayer
+"
+Steven,C.,1964-02-19,Money Ball,"Paramount
+"
+Richard,LaGravenese,1966-05-30,House of Gucci,"Disney
+"
+Martin,Campbell,1974-02-01,Planet Earth,"Disney
+"
+Reginald,Hudlin,1955-01-15,Black Widow,"Warner Bros
+"
+George,Jackson,1963-05-11,Mamma Mia,"Universal Studios
+"
+Eric,Meza,1971-06-05,Mamma Mia,"Warner Bros
+"
+Michael,Martin,1955-09-22,Captain Philips,"Warner Bros
+"
+Michael,Rymer,1966-06-06,Captain Philips,"Universal Studios
+"
+Andrew,Lau,1954-02-05,Grease,"Metro Goldwyn Mayer
+"
+Brett,Weiner,1971-03-29,Eternals,"20th Century Fox
+"
+Jim,Henson,1963-09-12,Grease,"20th Century Fox
+"
+Gary,Winick,1964-10-18,Eternals,"Paramount
+"
+Danishka,Esterhazy,1970-07-10,Black Widow,"Metro Goldwyn Mayer
+"
+Troy,Byer,1953-08-02,Money Ball,"Paramount
+"
+Pang,Ho-cheung,1974-12-07,Jaws,"20th Century Fox
+"
+Tim,Burton,1964-06-04,Parasite,"20th Century Fox
+"
+David,Zucker,1958-05-26,Grease,"Disney
+"
+Kinka,Usher,1971-12-22,Black Widow,"Universal Studios
+"
+Sergio,Leone,1973-02-20,Star Wars,"Paramount
+"
+Matthew,O'Callaghan,1964-07-26,Up,"Paramount
+"
+Bobby,Farrelly,1964-12-27,House of Gucci,"Sony Pictures
+"
+Wolfgang,Petersen,1952-10-20,Grown Ups,"Metro Goldwyn Mayer
+"
+Peter,Spirer,1950-04-17,Parasite,"Metro Goldwyn Mayer
+"
+Michael,Carney,1971-04-15,Black Widow,"Universal Studios
+"
+Richard,Linklater,1968-02-05,Grease,"20th Century Fox
+"
+Amy,Rice,1974-02-11,Black Widow,"Disney
+"
+Randal,Kleiser,1953-07-09,Captain Philips,"Warner Bros
+"
+Michael,Ritchie,1961-05-21,Jaws,"Sony Pictures
+"
+J.,Lee,1973-07-15,Black Widow,"Disney
+"
+Evan,Goldberg,1957-01-20,House of Gucci,"Sony Pictures
+"
+Tom,Shadyac,1974-08-25,Star Wars,"Disney
+"
+Malcolm,D,1969-06-23,Dune,"20th Century Fox
+"
+Ramzy,Bedia,1973-01-18,Black Widow,"Metro Goldwyn Mayer
+"
+Sharan,Koppisetty,1954-01-26,Pitch Perfect,"Disney
+"
+Taylor,Sheridan,1951-01-16,House of Gucci,"20th Century Fox
+"
+Sachin,Yardi,1969-08-19,House of Gucci,"Paramount
+"
+Saurabh,Kabra,1972-07-23,Black Widow,"Warner Bros
+"
+Partho,Mitra,1970-07-10,Grease,"20th Century Fox
+"
+Santram,Varma,1972-06-08,Dune,"Disney
+"
+Anil,V,1974-11-18,Mamma Mia,"20th Century Fox
+"
+Sangeeth,Sivan,1954-04-09,Pitch Perfect,"20th Century Fox
+"
+Umesh,Ghadge,1951-09-17,Dune,"Disney
+"
+David,Dhawan,1969-11-03,Parasite,"Sony Pictures
+"
+Dibakar,Banerjee,1973-09-27,Grown Ups,"Sony Pictures
+"
+Apoorva,Lakhia,1972-09-20,Jaws,"Sony Pictures
+"
+Milan,Luthria,1966-07-05,Jaws,"Metro Goldwyn Mayer
+"
+Pawan,Kripalani,1967-04-11,Grown Ups,"20th Century Fox
+"
+Bhushan,Patel,1973-07-15,Up,"Warner Bros
+"
+Raj,Nidimoru,1961-07-01,Grease,"Sony Pictures
+"
+Angel,Kristi,1968-04-26,Jaws,"Universal Studios
+"
+Roger,Donaldson,1969-01-15,Eternals,"20th Century Fox
+"
+Christopher,Alender,1959-10-19,Up,"Sony Pictures
+"
+David,Oyelowo,1952-10-28,Pitch Perfect,"Paramount
+"
+Brian,Andrew,1954-10-10,Money Ball,"Metro Goldwyn Mayer
+"
+Drake,Doremus,1959-07-24,Star Wars,"Paramount
+"
+Mani,Ratnam,1969-04-18,Captain Philips,"Sony Pictures
+"
+Paakhi,Tyrewala,1969-04-03,Eternals,"Paramount
+"
+Steve,Brill,1957-02-01,Grease,"20th Century Fox
+"
+Ferdinando,Cito,1964-02-21,Grease,"20th Century Fox
+"
+Juan,Carlos,1959-10-21,Mamma Mia,"Warner Bros
+"
+Inma,Torrente,1972-04-13,Captain Philips,"Disney
+"
+Julián,Gaviria,1964-02-23,Black Widow,"Metro Goldwyn Mayer
+"
+Steven,Yamamoto,1965-04-06,Captain Philips,"Paramount
+"
+Charles,Uwagbai,1959-11-23,Eternals,"Universal Studios
+"
+Julián,Hernández,1954-06-30,Jaws,"Universal Studios
+"
+Vince,Marcello,1974-04-12,Parasite,"Disney
+"
+Jonathan,Teplitzky,1975-06-17,Captain Philips,"Metro Goldwyn Mayer
+"
+Dustin,Hoffman,1955-06-06,Money Ball,"Sony Pictures
+"
+Adze,Ugah,1964-07-22,Up,"Metro Goldwyn Mayer
+"
+Quoc,Bao,1970-02-09,Black Widow,"20th Century Fox
+"
+Bejoy,Nambiar,1952-04-03,Eternals,"Warner Bros
+"
+Kayode,Kasum,1967-02-24,Star Wars,"Disney
+"
+Just,Philippot,1965-09-14,House of Gucci,"Paramount
+"
+Kirk,DeMicco,1953-07-16,Captain Philips,"Sony Pictures
+"
+Rohit,Shetty,1967-10-21,Eternals,"20th Century Fox
+"
+Alejandro,Doria,1967-04-08,Captain Philips,"Metro Goldwyn Mayer
+"
+Laura,Fairrie,1974-08-07,Black Widow,"Paramount
+"
+Marcelo,Piñeyro,1950-03-21,Star Wars,"Paramount
+"
+Izu,Ojukwu,1961-07-16,Pitch Perfect,"Warner Bros
+"
+Peter,Winther,1967-02-28,Jaws,"Warner Bros
+"
+Susan,Lacy,1960-02-02,Grown Ups,"Paramount
+"
+James,Mangold,1963-11-23,Pitch Perfect,"20th Century Fox
+"
+Chineze,Anyaene,1963-01-28,Star Wars,"Universal Studios
+"
+Hsu,Fu-chun,1958-11-24,Planet Earth,"Warner Bros
+"
+Brian,Levant,1972-12-11,Pitch Perfect,"Paramount
+"
+Rod,Daniel,1967-09-25,Captain Philips,"Metro Goldwyn Mayer
+"
+Robert,Zemeckis,1954-02-02,Black Widow,"Paramount
+"
+Todor,Chapkanov,1975-11-12,Up,"Paramount
+"
+Phil,Lord,1969-09-03,Grease,"Paramount
+"
+John,Hughes,1964-03-29,Parasite,"20th Century Fox
+"
+Justin,Baldoni,1974-12-05,Grown Ups,"Disney
+"
+Joe,Roth,1963-08-28,Eternals,"Disney
+"
+Mark,Helfrich,1951-01-25,Star Wars,"Warner Bros
+"
+Christopher,Nolan,1956-12-25,Grease,"Paramount
+"
+Paul,Thomas,1961-10-28,Money Ball,"Warner Bros
+"
+Nick,Castle,1957-12-26,Parasite,"Sony Pictures
+"
+Howard,Zieff,1973-09-17,House of Gucci,"Disney
+"
+David,Feiss,1954-07-13,Black Widow,"Universal Studios
+"
+David,Gordon,1968-11-24,Star Wars,"Metro Goldwyn Mayer
+"
+Jorge,Blanco,1973-04-24,Star Wars,"Paramount
+"
+Zara,Hayes,1975-04-09,Star Wars,"20th Century Fox
+"
+Gary,Ross,1973-10-13,Grease,"Sony Pictures
+"
+Clint,Eastwood,1958-10-10,Up,"Disney
+"
+Trey,Parker,1962-01-28,Star Wars,"Universal Studios
+"
+Kelly,Fremon,1962-01-12,Parasite,"Disney
+"
+Tom,Elkins,1970-12-04,Grown Ups,"Paramount
+"
+Tony,Scott,1971-06-20,Eternals,"Metro Goldwyn Mayer
+"
+Brad,Furman,1971-04-03,Planet Earth,"20th Century Fox
+"
+Sylvain,White,1953-05-11,Pitch Perfect,"20th Century Fox
+"
+Brad,Anderson,1958-11-14,Jaws,"Metro Goldwyn Mayer
+"
+Irwin,Winkler,1965-01-30,Black Widow,"Paramount
+"
+Garry,Marshall,1956-01-06,Star Wars,"Warner Bros
+"
+Najwa,Najjar,1974-01-07,House of Gucci,"Warner Bros
+"
+Michelle,Bello,1958-04-14,Parasite,"Warner Bros
+"
+Daniel,Markowicz,1956-03-10,Mamma Mia,"Universal Studios
+"
+Glen,Winter,1962-10-05,Jaws,"20th Century Fox
+"
+Ram,Gopal,1963-01-05,Grown Ups,"Metro Goldwyn Mayer
+"
+Yuval,Adler,1970-06-21,Grown Ups,"Disney
+"
+Quentin,Tarantino,1966-07-18,Captain Philips,"Warner Bros
+"
+Clay,Glen,1950-12-10,Captain Philips,"Warner Bros
+"
+Augustine,Frizzell,1967-09-23,Grown Ups,"Sony Pictures
+"
+Rajiv,Chilaka,1955-05-08,Dune,"Disney
+"
+Ainsley,Gardiner,1973-09-25,Star Wars,"20th Century Fox
+"
+Seyi,Babatope,1974-12-15,Jaws,"Disney
+"
+Morgan,Ingari,1970-04-04,Pitch Perfect,"Universal Studios
+"
+Abdulaziz,Alshlahei,1973-10-29,Captain Philips,"Disney
+"
+Edward,Drake,1950-06-16,Grease,"Paramount
+"
+Sita,Likitvanichkul,1967-08-16,Captain Philips,"Universal Studios
+"
+Sofia,Coppola,1950-09-08,Captain Philips,"Warner Bros
+"
+Colin,Trevorrow,1950-11-30,Pitch Perfect,"Universal Studios
+"
+Bill,Condon,1956-01-22,Dune,"Sony Pictures
+"
+David,Slade,1951-03-10,Up,"20th Century Fox
+"
+Chris,Weitz,1963-09-30,Pitch Perfect,"Universal Studios
+"
+Catherine,Hardwicke,1951-01-01,Star Wars,"Paramount
+"
+Hadrah,Daeng,1958-04-18,Parasite,"Sony Pictures
+"
+Ash,Brannon,1953-12-24,Grown Ups,"Sony Pictures
+"
+Roberto,De,1958-03-05,Money Ball,"Disney
+"
+Semi,Chellas,1974-10-11,Money Ball,"Warner Bros
+"
+Nima,Nourizadeh,1958-07-13,Parasite,"Disney
+"
+Jericca,Cleland,1965-12-03,Captain Philips,"Disney
+"
+Ahmed,Siddiqui,1959-07-18,Mamma Mia,"Disney
+"
+Hallie,Meyers-Shyer,1968-01-30,Pitch Perfect,"Disney
+"
+Scott,Speer,1953-04-17,Parasite,"Paramount
+"
+Barry,Levinson,1961-06-16,Planet Earth,"Paramount
+"
+Camille,Delamarre,1967-07-14,Money Ball,"20th Century Fox
+"
+Mahmood,Ali-Balogun,1954-09-26,Grown Ups,"Metro Goldwyn Mayer
+"
+Jan,Holoubek,1964-03-07,Jaws,"Warner Bros
+"
+Christine,Luby,1961-12-11,Jaws,"Sony Pictures
+"
+Yeo,Siew,1973-08-26,Black Widow,"Universal Studios
+"
+Hardik,Mehta,1950-08-08,Mamma Mia,"20th Century Fox
+"
+Rajveer,Singh,1964-11-01,Jaws,"Metro Goldwyn Mayer
+"
+Youssef,Chahine,1950-02-07,Grown Ups,"20th Century Fox
+"
+Saw,Teong,1970-09-13,Up,"Disney
+"
+Rano,Karno,1970-05-12,Grown Ups,"Warner Bros
+"
+Pramod,Pawar,1971-05-01,Money Ball,"Metro Goldwyn Mayer
+"
+Naresh,Saigal,1966-03-10,Parasite,"Universal Studios
+"
+Vinil,Mathew,1968-10-02,Money Ball,"Metro Goldwyn Mayer
+"
+Ramsey,Nouah,1975-06-25,Planet Earth,"Paramount
+"
+Bong,Joon,1970-12-10,Grown Ups,"Sony Pictures
+"
+Kim,Tae-hyung,1954-08-06,Parasite,"Disney
+"
+Michael,Spierig,1964-11-08,Star Wars,"Metro Goldwyn Mayer
+"
+Ernie,Barbarash,1969-10-29,Black Widow,"Sony Pictures
+"
+Jay,Roach,1951-03-07,Black Widow,"Disney
+"
+McG,Lee,1957-11-13,House of Gucci,"Paramount
+"
+Frank,Marshall,1961-01-07,Parasite,"Universal Studios
+"
+Victor,Vu,1970-02-28,Dune,"Warner Bros
+"
+Joel,Hopkins,1963-02-12,Jaws,"20th Century Fox
+"
+John,Stevenson,1960-09-19,Grown Ups,"Universal Studios
+"
+Jennifer,Yuh,1974-10-26,Planet Earth,"Sony Pictures
+"
+Greg,Berlanti,1968-06-29,Captain Philips,"Sony Pictures
+"
+Garth,Davis,1967-12-12,Star Wars,"Paramount
+"
+Rob,Marshall,1957-07-18,Grown Ups,"Metro Goldwyn Mayer
+"
+Martin,Brest,1953-01-22,Jaws,"Sony Pictures
+"
+Paul,W.S.,1963-10-16,Mamma Mia,"Universal Studios
+"
+Ivan,Reitman,1969-06-26,Money Ball,"Sony Pictures
+"
+Joel,Gallen,1962-05-25,Jaws,"Disney
+"
+Claire,McCarthy,1966-01-21,Planet Earth,"Warner Bros
+"
+Trevor,Nunn,1964-10-27,Up,"Universal Studios
+"
+Gabriele,Muccino,1973-04-06,Parasite,"20th Century Fox
+"
+Jim,Field,1956-04-17,Planet Earth,"Metro Goldwyn Mayer
+"
+Chris,Koch,1956-11-08,Eternals,"Paramount
+"
+J.J.,Abrams,1969-10-26,Up,"Disney
+"
+Rob,Minkoff,1971-04-07,Dune,"Disney
+"
+Lynn,Shelton,1975-02-04,Star Wars,"Metro Goldwyn Mayer
+"
+Adam,McKay,1962-05-17,Pitch Perfect,"Warner Bros
+"
+Anton,Corbijn,1966-07-07,Captain Philips,"Warner Bros
+"
+Robin,Bissell,1973-12-04,Up,"Metro Goldwyn Mayer
+"
+David,Fincher,1955-10-16,Eternals,"Metro Goldwyn Mayer
+"
+John,G.,1955-12-15,Planet Earth,"Sony Pictures
+"
+Alan,Parker,1963-08-05,Black Widow,"Disney
+"
+Walter,Hill,1965-03-06,Eternals,"Universal Studios
+"
+Stephen,Frears,1951-10-26,Mamma Mia,"Sony Pictures
+"
+Bryan,Bertino,1964-10-02,Grease,"20th Century Fox
+"
+Phil,Alden,1959-02-02,Eternals,"Universal Studios
+"
+Florian,Henckel,1960-05-28,Grown Ups,"20th Century Fox
+"
+Len,Wiseman,1952-08-17,Grease,"Sony Pictures
+"
+Måns,Mårlind,1967-06-27,Mamma Mia,"Sony Pictures
+"
+Patrick,Tatopoulos,1973-07-23,Black Widow,"20th Century Fox
+"
+Robert,O.,1954-11-12,House of Gucci,"Metro Goldwyn Mayer
+"
+Vincent,Ward,1968-11-08,Grease,"Warner Bros
+"
+Gregory,Nava,1958-08-15,Dune,"Disney
+"
+Matt,Thompson,1959-08-09,Dune,"20th Century Fox
+"
+Matt,Aselton,1970-07-08,House of Gucci,"Metro Goldwyn Mayer
+"
+Andrew,Dominik,1961-01-22,Mamma Mia,"Warner Bros
+"
+Anissa,Bonnefont,1970-05-04,Dune,"20th Century Fox
+"
+Bahij,Hojeij,1956-07-15,Star Wars,"Sony Pictures
+"
+Jonathan,Hensleigh,1963-02-06,Pitch Perfect,"Metro Goldwyn Mayer
+"
+Justin,P.,1975-02-09,Eternals,"Metro Goldwyn Mayer
+"
+Jayme,Monjardim,1974-03-28,Captain Philips,"Metro Goldwyn Mayer
+"
+Kingsley,Ogoro,1952-10-20,Parasite,"Disney
+"
+Cristina,Jacob,1959-03-12,Up,"Metro Goldwyn Mayer
+"
+Rob,Seidenglanz,1952-05-14,Star Wars,"Paramount
+"
+Simon,Frederick,1952-12-24,Grease,"Sony Pictures
+"
+Paul,Weitz,1974-01-03,Pitch Perfect,"Metro Goldwyn Mayer
+"
+Soudade,Kaadan,1968-06-13,Mamma Mia,"Paramount
+"
+Antoinette,Jadaone,1956-11-04,Black Widow,"Universal Studios
+"
+Marie,Clements,1974-01-06,Parasite,"Universal Studios
+"
+David,O.,1968-05-31,Grown Ups,"Paramount
+"
+Max,Jabs,1953-05-11,Grown Ups,"Disney
+"
+Ricardo,de,1953-11-03,Parasite,"20th Century Fox
+"
+Peter,Chelsom,1950-03-20,Up,"20th Century Fox
+"
+Francine,Parker,1955-09-14,Dune,"Sony Pictures
+"
+Daniel,Schechter,1951-05-26,Planet Earth,"20th Century Fox
+"
+Mike,Gunther,1961-04-24,Planet Earth,"20th Century Fox
+"
+David,Zeiger,1958-10-16,House of Gucci,"Paramount
+"
+Michael,Simon,1956-02-13,Star Wars,"Paramount
+"
+Joe,Berlinger,1956-06-11,Star Wars,"Paramount
+"
+Bradley,Parker,1953-02-27,Grown Ups,"Paramount
+"
+Prabhakaran,,1955-08-02,Dune,"Sony Pictures
+"
+Manjari,Makijany,1958-12-13,Grease,"Metro Goldwyn Mayer
+"
+Jay,Oliva,1962-09-09,Grease,"20th Century Fox
+"
+Chris,Appelhans,1951-03-30,Star Wars,"Sony Pictures
+"
+Michael,Tiddes,1952-04-20,Mamma Mia,"Universal Studios
+"
+Lara,Saba,1966-08-03,Captain Philips,"Sony Pictures
+"
+Bao,Nhan,1956-09-22,Up,"Sony Pictures
+"
+Mark,Raso,1975-11-21,Star Wars,"20th Century Fox
+"
+Tariq,Alkazim,1960-09-25,House of Gucci,"Metro Goldwyn Mayer
+"
+Kenneth,Gyang,1967-07-26,House of Gucci,"Paramount
+"
+Yulene,Olaizola,1961-04-09,Planet Earth,"Universal Studios
+"
+Mark,Waters,1957-02-26,Parasite,"Paramount
+"
+Matthew,Heineman,1956-02-15,House of Gucci,"Metro Goldwyn Mayer
+"
+Robert,Peters,1956-04-20,Mamma Mia,"Metro Goldwyn Mayer
+"
+Jonathan,Clay,1968-12-10,House of Gucci,"Warner Bros
+"
+Ally,Pankiw,1965-10-21,Eternals,"Metro Goldwyn Mayer
+"
+Lee,Kae-byeok,1959-11-30,Planet Earth,"Disney
+"
+Jayan,Moodley,1961-10-21,House of Gucci,"Paramount
+"
+Daniel,Benmayor,1951-05-12,Jaws,"Disney
+"
+Alex,Díaz,1973-02-21,Jaws,"Warner Bros
+"
+Helena,Bergström,1962-03-28,Black Widow,"20th Century Fox
+"
+Myriam,Fares,1966-09-15,Up,"Metro Goldwyn Mayer
+"
+Rae,Red,1975-02-10,Star Wars,"Disney
+"
+Lance,Hool,1970-08-14,Jaws,"Paramount
+"
+Nicole,Conn,1973-11-08,Dune,"20th Century Fox
+"
+Les,Mayfield,1963-06-21,Star Wars,"Warner Bros
+"
+Ellen,Seidler,1964-03-22,Grease,"Universal Studios
+"
+Roger,Christian,1964-04-25,Parasite,"Disney
+"
+Lance,Young,1960-11-29,Eternals,"Disney
+"
+Leandro,Neri,1950-09-27,Grease,"Paramount
+"
+Thom,Fitzgerald,1969-11-09,Planet Earth,"Warner Bros
+"
+Don,Michael,1975-03-16,Planet Earth,"Metro Goldwyn Mayer
+"
+Andrzej,Bartkowiak,1963-11-26,Dune,"20th Century Fox
+"
+Harold,Becker,1968-04-30,Pitch Perfect,"Warner Bros
+"
+Andrew,Jenks,1965-10-10,Star Wars,"Metro Goldwyn Mayer
+"
+Ric,Roman,1971-10-15,Captain Philips,"Paramount
+"
+Rob,Reiner,1970-09-29,Dune,"Metro Goldwyn Mayer
+"
+Andy,Tennant,1961-12-27,Money Ball,"Disney
+"
+Tade,Ogidan,1967-04-27,Captain Philips,"Metro Goldwyn Mayer
+"
+Scott,Spiegel,1961-02-20,Black Widow,"Warner Bros
+"
+Jessie,Nelson,1956-09-08,Grown Ups,"Warner Bros
+"
+Theodore,Witcher,1974-08-24,Planet Earth,"Universal Studios
+"
+Aurora,Guerrero,1968-10-09,Eternals,"Universal Studios
+"
+Michael,Jai,1962-04-14,Dune,"20th Century Fox
+"
+James,McTeigue,1970-09-28,Grown Ups,"Universal Studios
+"
+Takuya,Igarashi,1966-02-09,Black Widow,"Metro Goldwyn Mayer
+"
+Michelle,MacLaren,1967-11-20,Grown Ups,"Sony Pictures
+"
+Todd,Phillips,1975-12-19,Captain Philips,"Disney
+"
+Dominic,Sena,1957-08-03,Dune,"Sony Pictures
+"
+Alan,Alda,1974-09-14,Jaws,"Sony Pictures
+"
+Sydney,Pollack,1950-01-24,Grown Ups,"Metro Goldwyn Mayer
+"
+Lorene,Scafaria,1956-04-25,House of Gucci,"Sony Pictures
+"
+Barbra,Streisand,1966-08-09,Up,"Sony Pictures
+"
+Michael,Winterbottom,1956-06-03,Grown Ups,"Universal Studios
+"
+Emma,Tammi,1952-07-10,Pitch Perfect,"Universal Studios
+"
+Peter,Hutchings,1974-04-03,Grown Ups,"20th Century Fox
+"
+George,Ratliff,1967-09-16,Pitch Perfect,"Universal Studios
+"
+Bo,Burnham,1971-02-22,Pitch Perfect,"20th Century Fox
+"
+David,Frankel,1966-12-10,Grease,"Metro Goldwyn Mayer
+"
+Julio,Quintana,1958-05-03,Planet Earth,"20th Century Fox
+"
+Paween,Purijitpanya,1952-01-12,Eternals,"Paramount
+"
+Pablo,Faro,1969-05-12,Jaws,"Paramount
+"
+Letizia,Lamartire,1968-11-29,Dune,"Metro Goldwyn Mayer
+"
+Tim,Johnson,1964-03-31,Money Ball,"Metro Goldwyn Mayer
+"
+Vishwesh,Krishnamoorthy,1975-04-19,Black Widow,"Disney
+"
+Zack,Snyder,1968-11-26,Mamma Mia,"Metro Goldwyn Mayer
+"
+Amr,Salama,1957-01-14,Parasite,"Warner Bros
+"
+Robert,Rodriguez,1967-12-23,Star Wars,"Sony Pictures
+"
+David,Ayer,1962-01-18,Grease,"Paramount
+"
+Eshom,Nelms,1957-07-01,Eternals,"Sony Pictures
+"
+James,Redford,1967-07-06,Eternals,"Disney
+"
+Kaashvie,Nair,1957-08-20,Dune,"Universal Studios
+"
+J.D.,Dillard,1956-08-18,Captain Philips,"Sony Pictures
+"
+Nikhil,Pherwani,1957-11-06,Money Ball,"Disney
+"
+Praveen,Kandregula,1961-03-22,Dune,"Disney
+"
+Cecilia,Verheyden,1961-04-09,Eternals,"20th Century Fox
+"
+Daniel,Minahan,1966-06-05,Planet Earth,"20th Century Fox
+"
+Donovan,Marsh,1954-12-22,Planet Earth,"Warner Bros
+"
+Brent,Dawes,1964-03-17,Eternals,"Disney
+"
+Leli,Maki,1966-02-23,Mamma Mia,"Paramount
+"
+Daniel,Prochaska,1950-02-27,Jaws,"Paramount
+"
+Joe,Wright,1963-10-27,Up,"Sony Pictures
+"
+Matthew,Vaughn,1951-03-31,Black Widow,"Metro Goldwyn Mayer
+"
+Aditya,Kripalani,1959-11-23,Dune,"Disney
+"
+David,Pablos,1953-07-14,Mamma Mia,"Disney
+"
+Alexandre,Aja,1956-05-12,Planet Earth,"Disney
+"
+Ramon,Térmens,1973-11-05,Grease,"Sony Pictures
+"
+Svetlana,Cvetko,1970-11-07,Grown Ups,"Universal Studios
+"
+Martin,Prakkat,1950-11-23,Dune,"20th Century Fox
+"
+Baran,bo,1956-06-16,Star Wars,"Warner Bros
+"
+Zhang,Chong,1952-12-13,Grease,"Paramount
+"
+Yılmaz,Erdoğan,1969-04-29,Eternals,"Warner Bros
+"
+Ivan,Ayr,1973-10-20,Up,"Sony Pictures
+"
+Anthony,Mandler,1957-03-23,Dune,"Sony Pictures
+"
+Stanley,Menino,1965-10-18,Captain Philips,"Paramount
+"
+Jennifer,Brea,1968-09-05,Grease,"Sony Pictures
+"
+Julia,von,1957-11-20,Pitch Perfect,"20th Century Fox
+"
+Niels,Arden,1954-04-17,Jaws,"Disney
+"
+Don,Argott,1970-07-02,Parasite,"Sony Pictures
+"
+Duncan,Skiles,1950-02-02,Captain Philips,"Universal Studios
+"
+Sean,McNamara,1960-09-24,Captain Philips,"20th Century Fox
+"
+Vondie,Curtis-Hall,1957-12-19,Grown Ups,"Metro Goldwyn Mayer
+"
+Robert,Radler,1950-12-26,Grown Ups,"Warner Bros
+"
+Dean,Parisot,1954-11-24,Grease,"Universal Studios
+"
+Paul,Greengrass,1957-08-01,Captain Philips,"Warner Bros
+"
+Justin,Kelly,1963-12-03,Star Wars,"Metro Goldwyn Mayer
+"
+Eric,Darnell,1960-09-10,Parasite,"20th Century Fox
+"
+Jeff,Wadlow,1963-01-22,Jaws,"Paramount
+"
+Charles,Martin,1958-08-27,Jaws,"20th Century Fox
+"
+Stella,Corradi,1962-07-28,Eternals,"Sony Pictures
+"
+Roland,Emmerich,1971-08-08,Dune,"Paramount
+"
+Kevin,Macdonald,1975-06-13,Captain Philips,"20th Century Fox
+"
+Ann,Deborah,1962-04-29,Grease,"Universal Studios
+"
+Chris,Gorak,1955-11-10,Dune,"Disney
+"
+Peter,Jackson,1965-12-20,Up,"Metro Goldwyn Mayer
+"
+Roger,Kumble,1957-01-17,Jaws,"Metro Goldwyn Mayer
+"
+Jonathan,Lynn,1950-11-15,Grown Ups,"20th Century Fox
+"
+Courtney,Hunt,1973-03-26,Star Wars,"Sony Pictures
+"
+Pierre,Greco,1960-10-20,Money Ball,"Sony Pictures
+"
+Andrew,Davis,1953-03-30,Pitch Perfect,"Universal Studios
+"
+Kevin,Smith,1957-10-26,Captain Philips,"Paramount
+"
+Chaitanya,Tamhane,1958-03-22,Black Widow,"Warner Bros
+"
+Johannes,Roberts,1965-10-03,Black Widow,"20th Century Fox
+"
+Pedro,Antonio,1961-08-31,Planet Earth,"Universal Studios
+"
+John,Wells,1974-05-27,Eternals,"20th Century Fox
+"
+Jonathan,Liebesman,1961-06-23,Jaws,"Warner Bros
+"
+Maria,Pulera,1962-04-19,Star Wars,"Disney
+"
+Santhosh,Viswanath,1956-07-02,Grown Ups,"Metro Goldwyn Mayer
+"
+Seema,Pahwa,1954-08-08,Black Widow,"Paramount
+"
+Ozan,Açıktan,1957-10-27,Jaws,"20th Century Fox
+"
+Meltem,Bozoflu,1960-10-04,Eternals,"Sony Pictures
+"
+Hakan,Algül,1968-11-10,Planet Earth,"Universal Studios
+"
+Selçuk,Aydemir,1975-11-27,Grown Ups,"20th Century Fox
+"
+Selçuk,Aydemir,1965-07-23,Grown Ups,"Sony Pictures
+"
+Ömer,Faruk,1971-10-21,Planet Earth,"Sony Pictures
+"
+Şenol,Sönmez,1969-04-01,Planet Earth,"Warner Bros
+"
+Alexis,Morante,1954-12-17,House of Gucci,"Universal Studios
+"
+Burak,Aksak,1958-08-19,Grease,"20th Century Fox
+"
+Kıvanç,Baruönü,1950-10-08,Black Widow,"Metro Goldwyn Mayer
+"
+Kongkiat,Khomsiri,1970-05-17,Pitch Perfect,"Warner Bros
+"
+Bedran,Güzel,1958-05-23,Money Ball,"Universal Studios
+"
+Marwan,Nabil,1963-01-30,Jaws,"Universal Studios
+"
+Yılmaz,Erdoğan,1960-04-27,Captain Philips,"Metro Goldwyn Mayer
+"
+Takashi,Shimizu,1964-02-19,House of Gucci,"20th Century Fox
+"
+Joe,Penna,1962-12-13,Captain Philips,"Metro Goldwyn Mayer
+"
+Curtis,Graham,1973-10-06,Black Widow,"Metro Goldwyn Mayer
+"
+Gerardo,Gatica,1964-04-15,Star Wars,"Sony Pictures
+"
+John,Madden,1952-09-22,Pitch Perfect,"Sony Pictures
+"
+Edward,James,1967-08-13,Pitch Perfect,"Universal Studios
+"
+Abhinay,Deo,1975-09-14,Grease,"Universal Studios
+"
+Kiran,Rao,1963-12-04,Grease,"20th Century Fox
+"
+Abbas,Tyrewala,1970-03-18,Black Widow,"20th Century Fox
+"
+Ashutosh,Gowariker,1970-01-09,House of Gucci,"Warner Bros
+"
+Satyajit,Bhatkal,1973-04-28,House of Gucci,"Paramount
+"
+Anusha,Rizvi,1967-02-08,Grown Ups,"Paramount
+"
+Aamir,Khan,1950-11-03,Parasite,"Warner Bros
+"
+Shashank,Khaitan,1971-01-11,Mamma Mia,"Paramount
+"
+Ryan,Crego,1970-07-13,Black Widow,"Metro Goldwyn Mayer
+"
+Cassi,Simonds,1951-07-09,Eternals,"Disney
+"
+Guillermo,del,1970-07-07,Mamma Mia,"Warner Bros
+"
+Tony,Abulu,1963-09-28,Eternals,"Paramount
+"
+Mae,Czarina,1970-02-28,Parasite,"20th Century Fox
+"
+Stefan,Westerwelle,1961-10-11,Eternals,"Disney
+"
+Ron,Howard,1972-01-24,Captain Philips,"Disney
+"
+Justin,Benson,1973-04-07,Eternals,"Universal Studios
+"
+Niki,Caro,1951-01-09,Grown Ups,"Warner Bros
+"
+Mark,Dennis,1965-05-26,Jaws,"Metro Goldwyn Mayer
+"
+Taranveer,Singh,1967-06-09,Black Widow,"Paramount
+"
+TT,The,1974-05-17,Dune,"Metro Goldwyn Mayer
+"
+Keiichi,Sato,1971-10-16,Mamma Mia,"Sony Pictures
+"
+Glenn,Weiss,1954-11-17,Money Ball,"Metro Goldwyn Mayer
+"
+Michael,Civille,1956-01-11,Dune,"Paramount
+"
+Ryuichi,Hiroki,1960-01-01,Grease,"20th Century Fox
+"
+One9,Lee,1956-07-31,Eternals,"Warner Bros
+"
+Luis,Valdez,1974-07-12,Jaws,"Universal Studios
+"
+Cheng,Wei-hao,1950-05-03,House of Gucci,"20th Century Fox
+"
+Pass,Patthanakumjon,1950-06-02,Grown Ups,"Paramount
+"
+Buchi,Babu,1953-12-01,Dune,"Paramount
+"
+Zhao,Ji,1960-09-01,Dune,"Paramount
+"
+Jamie,Babbit,1959-03-08,Grease,"Disney
+"
