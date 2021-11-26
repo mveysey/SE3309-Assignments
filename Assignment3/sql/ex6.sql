@@ -15,4 +15,4 @@ UPDATE appearance
 SET 
 	roleName = 'Annie'
 WHERE
-	roleName = 'Anna'
+	roleName = 'Anna';
