@@ -1,0 +1,46 @@
+~For Top 10 movies being watched in [user entered country] {located under the tab 'Country'}:
+originatingCountry: Canada
+originatingCountry: United States
+originatingCountry: Italy
+
+~For Movies that won a [user entered award] in a [user entered genre] in a [user entered country] {located under the tab 'Genre'}:
+genreType: Romance
+awardName: Documentary
+originatingCountry: Canada
+
+genreType: Comedy
+awardName: Best Screenplay - Motion Picture
+originatingCountry: United States
+
+~For Movies leaving soon by [user entered genre] {located under the tab 'Leaving Soon'}:
+genreType: Comedy
+genreType: Adventure
+genreType: Action
+
+
+~For View Reviews for a [user entered title] {located under the tab 'Reviews'}:
+title: A Cinderella Story
+title: Jeans
+title: The Strangers
+
+~For Allow user to add a review {located under the tab 'Reviews'}:
+title: A Cinderella Story
+date: 2019-08-02
+emailAddress: marathon_6@xxxx.xxx
+rating: 1
+
+title: Jeans
+date: 2018-03-02
+emailAddress: i_talia@xxxx.xxx
+rating: 4
+
+~For Edit Genre (You must first navigate to 'Log In' and user the user: 'admin' and password: 'time123'):
+newGenre: com
+oldGenre: Comedy
+
+newGenre: Act
+oldGenre: Action
+
+~For Top American movies directed by [user entered director] {located under the tab 'Director'}:
+fName: Alan
+lName: Alda
